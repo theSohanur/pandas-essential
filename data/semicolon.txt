@@ -1,0 +1,4 @@
+name=age=id_number
+omit=34=3432234
+lomit=32=343425
+momit=56=342342

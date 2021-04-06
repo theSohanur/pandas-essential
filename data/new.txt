@@ -1,0 +1,7 @@
+Name, Age, Married, Id_Number
+sumit,34,y,324234
+,,n,342342
+bomit,23,y,32432
+lomit,45,n,23424
+homit,,n,23423
+,,,232234
